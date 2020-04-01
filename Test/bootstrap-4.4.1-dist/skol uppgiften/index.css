@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.imageSize{
+    width: 50vw;
+    height:  50vh;
+}
+body{
+    background: lightblue;
+}
+
+.carousel{
+    width: 50vw;
+    height: 50vh;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.carousel-control-prev{
+    height: 50vh;
+
+}
+.carousel-control-next{
+    height:50vh;
+}
+
+.col-lg{
+    height: 20vh;
+    background-color: white;
+    margin-top: 40px;
+}
